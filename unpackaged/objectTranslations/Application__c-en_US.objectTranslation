@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Application</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Applications</value>
+    </caseValues>
+    <fields>
+        <label><!-- AI Match Score --></label>
+        <name>AI_Match_Score__c</name>
+    </fields>
+    <fields>
+        <label><!-- AI Skills Matched --></label>
+        <name>AI_Skills_Matched__c</name>
+    </fields>
+    <fields>
+        <label><!-- AI Skills Missing --></label>
+        <name>AI_Skills_Missing__c</name>
+    </fields>
+    <fields>
+        <label><!-- AI Summary --></label>
+        <name>AI_Summary__c</name>
+    </fields>
+    <fields>
+        <label><!-- Candidate --></label>
+        <name>Candidate__c</name>
+        <relationshipLabel><!-- Applications --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Job Requisition --></label>
+        <name>Job_Requisition__c</name>
+        <relationshipLabel><!-- Applications --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>AI Screening Completed</masterLabel>
+            <translation><!-- AI Screening Completed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AI Screening Failed</masterLabel>
+            <translation><!-- AI Screening Failed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hired</masterLabel>
+            <translation><!-- Hired --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Interview</masterLabel>
+            <translation><!-- Interview --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New</masterLabel>
+            <translation><!-- New --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Offer</masterLabel>
+            <translation><!-- Offer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rejected</masterLabel>
+            <translation><!-- Rejected --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Screening</masterLabel>
+            <translation><!-- Screening --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Candidate</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Candidates</value>
+    </caseValues>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Access</value>
+        </caseValues>
+        <name>contact_access</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Access Level</value>
+        </caseValues>
+        <name>contact_access_level</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Account</value>
+        </caseValues>
+        <name>contact_account</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Currency</value>
+        </caseValues>
+        <name>contact_currency</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Description</value>
+        </caseValues>
+        <name>contact_description</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Division</value>
+        </caseValues>
+        <name>contact_division</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Edit</value>
+        </caseValues>
+        <name>contact_edit</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Email</value>
+        </caseValues>
+        <name>contact_email</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Fax</value>
+        </caseValues>
+        <name>contact_fax</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Field</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Candidate Fields</value>
+        </caseValues>
+        <name>contact_field</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate History</value>
+        </caseValues>
+        <name>contact_history</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate History Report</value>
+        </caseValues>
+        <name>contact_history_report</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate ID</value>
+        </caseValues>
+        <name>contact_id</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Information</value>
+        </caseValues>
+        <name>contact_information</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Mobile</value>
+        </caseValues>
+        <name>contact_mobile</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Name</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Candidate Names</value>
+        </caseValues>
+        <name>contact_name</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Note</value>
+        </caseValues>
+        <name>contact_note</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Number</value>
+        </caseValues>
+        <name>contact_number</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Owner</value>
+        </caseValues>
+        <name>contact_owner</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Owner Alias</value>
+        </caseValues>
+        <name>contact_owner_alias</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Phone</value>
+        </caseValues>
+        <name>contact_phone</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Record</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Candidate Records</value>
+        </caseValues>
+        <name>contact_record</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Record Type</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Candidate Record Types</value>
+        </caseValues>
+        <name>contact_record_type</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Reports To Candidate</value>
+        </caseValues>
+        <name>contact_reports_to</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Role</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Candidate Roles</value>
+        </caseValues>
+        <name>contact_role</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Role ID</value>
+        </caseValues>
+        <name>contact_role_id</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Role Report</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Candidate Role Reports</value>
+        </caseValues>
+        <name>contact_role_report</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Stage ID</value>
+        </caseValues>
+        <name>contact_stage_id</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Status</value>
+        </caseValues>
+        <name>contact_status</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate Type</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Candidate Types</value>
+        </caseValues>
+        <name>contact_type</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Candidate View</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Candidate Views</value>
+        </caseValues>
+        <name>contact_view</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Resume Text Details</value>
+        </caseValues>
+        <name>description_contact</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <label><!-- Average Room Cost --></label>
+        <name>Average_Room_Cost__c</name>
+    </fields>
+    <fields>
+        <label><!-- External Id --></label>
+        <name>External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Guest Summary --></label>
+        <name>Guest_Summary__c</name>
+    </fields>
+    <fields>
+        <label><!-- Guest Type --></label>
+        <name>Guest_Type__c</name>
+        <picklistValues>
+            <masterLabel>Adventure Enthusiasts</masterLabel>
+            <translation><!-- Adventure Enthusiasts --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Business and Pleasure Travelers</masterLabel>
+            <translation><!-- Business and Pleasure Travelers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Celebration Groups</masterLabel>
+            <translation><!-- Celebration Groups --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cultural Connoisseurs</masterLabel>
+            <translation><!-- Cultural Connoisseurs --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Digital Detoxers</masterLabel>
+            <translation><!-- Digital Detoxers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Eco-Luxury Travelers</masterLabel>
+            <translation><!-- Eco-Luxury Travelers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Family Fun Seekers</masterLabel>
+            <translation><!-- Family Fun Seekers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Gourmet Globetrotters</masterLabel>
+            <translation><!-- Gourmet Globetrotters --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Romance Retreaters</masterLabel>
+            <translation><!-- Romance Retreaters --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Solitude Seekers</masterLabel>
+            <translation><!-- Solitude Seekers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tech-Savvy Explorers</masterLabel>
+            <translation><!-- Tech-Savvy Explorers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wellness Seekers</masterLabel>
+            <translation><!-- Wellness Seekers --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Interest 1 --></label>
+        <name>Interest1__c</name>
+        <picklistValues>
+            <masterLabel>Adventure Activities</masterLabel>
+            <translation><!-- Adventure Activities --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Beaches &amp; Snorkeling</masterLabel>
+            <translation><!-- Beaches &amp; Snorkeling --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cultural Tours &amp; Workshops</masterLabel>
+            <translation><!-- Cultural Tours &amp; Workshops --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dining Experiences</masterLabel>
+            <translation><!-- Dining Experiences --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Family &amp; Kids&apos; Activities</masterLabel>
+            <translation><!-- Family &amp; Kids&apos; Activities --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fitness &amp; Exercise</masterLabel>
+            <translation><!-- Fitness &amp; Exercise --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Golf</masterLabel>
+            <translation><!-- Golf --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nature &amp; Eco Tours</masterLabel>
+            <translation><!-- Nature &amp; Eco Tours --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nightlife &amp; Entertainment</masterLabel>
+            <translation><!-- Nightlife &amp; Entertainment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Relaxation &amp; Quiet Zones</masterLabel>
+            <translation><!-- Relaxation &amp; Quiet Zones --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spa &amp; Wellness</masterLabel>
+            <translation><!-- Spa &amp; Wellness --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Swimming Pools</masterLabel>
+            <translation><!-- Swimming Pools --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tennis &amp; Pickleball</masterLabel>
+            <translation><!-- Tennis &amp; Pickleball --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Water Sports</masterLabel>
+            <translation><!-- Water Sports --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Interest 2 --></label>
+        <name>Interest2__c</name>
+        <picklistValues>
+            <masterLabel>Adventure Activities</masterLabel>
+            <translation><!-- Adventure Activities --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Beaches &amp; Snorkeling</masterLabel>
+            <translation><!-- Beaches &amp; Snorkeling --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cultural Tours &amp; Workshops</masterLabel>
+            <translation><!-- Cultural Tours &amp; Workshops --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dining Experiences</masterLabel>
+            <translation><!-- Dining Experiences --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Family &amp; Kids&apos; Activities</masterLabel>
+            <translation><!-- Family &amp; Kids&apos; Activities --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fitness &amp; Exercise</masterLabel>
+            <translation><!-- Fitness &amp; Exercise --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Golf</masterLabel>
+            <translation><!-- Golf --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nature &amp; Eco Tours</masterLabel>
+            <translation><!-- Nature &amp; Eco Tours --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nightlife &amp; Entertainment</masterLabel>
+            <translation><!-- Nightlife &amp; Entertainment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Relaxation &amp; Quiet Zones</masterLabel>
+            <translation><!-- Relaxation &amp; Quiet Zones --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spa &amp; Wellness</masterLabel>
+            <translation><!-- Spa &amp; Wellness --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Swimming Pools</masterLabel>
+            <translation><!-- Swimming Pools --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tennis &amp; Pickleball</masterLabel>
+            <translation><!-- Tennis &amp; Pickleball --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Water Sports</masterLabel>
+            <translation><!-- Water Sports --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Interest 3 --></label>
+        <name>Interest3__c</name>
+        <picklistValues>
+            <masterLabel>Adventure Activities</masterLabel>
+            <translation><!-- Adventure Activities --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Beaches &amp; Snorkeling</masterLabel>
+            <translation><!-- Beaches &amp; Snorkeling --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cultural Tours &amp; Workshops</masterLabel>
+            <translation><!-- Cultural Tours &amp; Workshops --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dining Experiences</masterLabel>
+            <translation><!-- Dining Experiences --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Family &amp; Kids&apos; Activities</masterLabel>
+            <translation><!-- Family &amp; Kids&apos; Activities --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fitness &amp; Exercise</masterLabel>
+            <translation><!-- Fitness &amp; Exercise --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Golf</masterLabel>
+            <translation><!-- Golf --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nature &amp; Eco Tours</masterLabel>
+            <translation><!-- Nature &amp; Eco Tours --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nightlife &amp; Entertainment</masterLabel>
+            <translation><!-- Nightlife &amp; Entertainment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Relaxation &amp; Quiet Zones</masterLabel>
+            <translation><!-- Relaxation &amp; Quiet Zones --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spa &amp; Wellness</masterLabel>
+            <translation><!-- Spa &amp; Wellness --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Swimming Pools</masterLabel>
+            <translation><!-- Swimming Pools --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tennis &amp; Pickleball</masterLabel>
+            <translation><!-- Tennis &amp; Pickleball --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Water Sports</masterLabel>
+            <translation><!-- Water Sports --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Languages --></label>
+        <name>Languages__c</name>
+    </fields>
+    <fields>
+        <label><!-- Level --></label>
+        <name>Level__c</name>
+        <picklistValues>
+            <masterLabel>Primary</masterLabel>
+            <translation><!-- Primary --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Secondary</masterLabel>
+            <translation><!-- Secondary --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tertiary</masterLabel>
+            <translation><!-- Tertiary --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Lifetime Experience Bookings --></label>
+        <name>Lifetime_Experience_Bookings__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lifetime Reservations --></label>
+        <name>Lifetime_Reservations__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lifetime Value --></label>
+        <name>Lifetime_Value__c</name>
+    </fields>
+    <fields>
+        <label><!-- Maximum Room Cost --></label>
+        <name>Maximum_Room_Cost__c</name>
+    </fields>
+    <fields>
+        <label><!-- Membership Number --></label>
+        <name>Membership_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- Minimum Room Cost --></label>
+        <name>Minimum_Room_Cost__c</name>
+    </fields>
+    <fields>
+        <label><!-- Next Check-in Date --></label>
+        <name>Next_Check_in_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Photo URL --></label>
+        <name>Photo_URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- Preferred Name --></label>
+        <name>Preferred_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Resume Details --></label>
+        <name>Resume_Details__c</name>
+    </fields>
+    <fields>
+        <label><!-- Resume Text --></label>
+        <name>Resume_Text__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- GoogleMaps --></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleSearch --></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- SendGmail --></label>
+        <name>SendGmail</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- YahooMaps --></label>
+        <name>YahooMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- YahooWeather --></label>
+        <name>YahooWeather</name>
+    </webLinks>
+</CustomObjectTranslation>
